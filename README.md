@@ -29,5 +29,21 @@ pip install pandas
 pip install scikit-learn
 ```
 
+## Step 1 Hipertensi Plot
+Dengan output sebagai berikut :
+
+![Figure_1](https://user-images.githubusercontent.com/52452132/121645227-24819080-cabe-11eb-88e7-f54a623bdbd8.png)
+
+## Step 2 Menghitung Akurasi Model
+Dengan output sebagai berikut :
+
+![image](https://user-images.githubusercontent.com/52452132/121645496-762a1b00-cabe-11eb-84d0-26a99059a108.png)
+
+## Step 3 Memprediksi Apakah Orang Terkena Hirpentensi Dengan KNN
+Dengan output sebagai berikut :
+
+![image](https://user-images.githubusercontent.com/52452132/121645780-c99c6900-cabe-11eb-9ae5-c054e8f122ee.png)
+
+
 
 
