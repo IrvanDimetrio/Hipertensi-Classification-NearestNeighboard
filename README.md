@@ -1,6 +1,4 @@
-# Hipertensi-Classification-NearestNeighboard
-
-## Kasus Hipertensi Klasifikasi Nearest Neighbor
+# Kasus Hipertensi Klasifikasi Nearest Neighbor
 
 Kasus kita adalah memodelkan data Hipertensi yang memiliki fitur serta label(class). Langkah-langkah machine learning yang kita develop adalah :
 
